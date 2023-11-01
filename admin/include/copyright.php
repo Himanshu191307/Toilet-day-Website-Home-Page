@@ -1,0 +1,1 @@
+<div class="clear"></div><footer class="main-footer">  <strong>Copyright &copy; <?php echo date('Y'); ?> Hygienethatempowers </strong> All rights reserved.</footer>

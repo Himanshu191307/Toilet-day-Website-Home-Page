@@ -1,0 +1,186 @@
+<?php include('header.php');?>  
+   <!-- Banner Section -->
+  <section class="banner-section">
+    <div class="banner-carousel kausid-carousel owl-theme owl-carousel" data-options='{"loop": true, "margin": 0, "autoheight":true, "lazyload":true, "nav": true, "dots": true, "autoplay": true, "autoplayTimeout": 7000, "smartSpeed": 500, "responsive":{ "0" :{ "items": "1" }, "768" :{ "items" : "1" } , "1000":{ "items" : "1" }}}'> 
+
+      <!-- Slide Item -->
+      <div class="slide-item">
+        <div class="image-layer" style="background-image:url('images/main-slider/1.jpg')"></div>
+        <div class="auto-container">
+          <div class="content-box">
+            <div class="content">
+              <div class="inner">
+               <!--   <h2><span style="color: #ea6c20">a big-hearted donor for a small child</span><br> to help cross the educational divide</h2> -->
+                <!-- <div class="sub-title">support the causes that matters</div> -->
+                              
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>      
+      <!-- Slide Item -->
+      <div class="slide-item">
+        <div class="image-layer" style="background-image:url('images/main-slider/2.jpg')"></div>
+        <div class="auto-container">
+          <div class="content-box">
+            <div class="content">
+              <div class="inner">
+                <!-- <div class="sub-title">support the causes that matters</div> -->
+             <!--    <h2>Take a pledge to <br><span style="color: #ea6c20">help a child's education</span> for a<br> better & brighter tomorrow</h2> -->
+               
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+       <!-- Slide Item -->
+      <div class="slide-item">
+        <div class="image-layer" style="background-image:url('images/main-slider/3.jpg')"></div>
+        <div class="auto-container">
+          <div class="content-box">
+            <div class="content">
+              <div class="inner">
+                <!-- <div class="sub-title">support the causes that matters</div> -->
+             <!--    <h2>Take a pledge to <br><span style="color: #ea6c20">help a child's education</span> for a<br> better & brighter tomorrow</h2> -->
+               
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>      
+    </div>
+  </section>
+<section class="build">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="logo-build text-center">
+          <img src="images/slider-logo.png" class="img-fluid" alt="">
+           <p>LET’S COME TOGETHER TO SEND OUR GIRLS BACK TO THEIR CLASSROOM!</p>
+          </div>  
+            <div class="downArrow bounce bounce2 text-center">
+          <a href="#child-v" class="downarrow">
+          <img src="images/arrow.png" alt="arrow">
+          <span> YOU CAN HELP! </span></a>
+        </div>         
+      </div>
+    </div> 
+  </div>
+</section>
+<!-- video section -part -->
+<section class="child-video startup-banner-area" style="background: url(images/child-banner.jpg);" id="child-v">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-12 video-box">
+        <div class="content">
+        <a href="https://www.youtube.com/embed/f4rs5F_0gME" class="video-btn overlay-box lightbox-image"> 
+        <span class="flaticon-play-button"><i class="ripple fas fa-video" aria-hidden="true"></i></span>
+        </a> 
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-md-11">
+      <div class="video-cantt-part py-5 text-center">
+        <p>Girls in India drop out of school due to a lack of clean toilets. As of 2019, 11.5% of India’s rural schools had no separate toilets for girls and of the ones that did, 11.7% were locked and unusable. The lack of proper sanitation facilities affects teenage girls the most as they are forced to miss school for a few days every month. Eventually they fall behind their class, and prefer to drop out completely.</p>
+        <p>This World Toilet Day, Hindware begins its mission to send them back to school, by helping build toilets in schools.</p>
+        <div class="downArrow bounce text-center">
+          <a href="#downarrow" class="downarrow">
+          <img src="images/arrow.png" alt="arrow">
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<section class="word_tolite-day" id="downarrow" style="background: url(images/tolit-day-bg-img.jpg);">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-md-8">
+        <div class="word-cantt-pt text-center">
+          <!-- <p>This World Toilet Day <span> hindware </span>has decided to</p> -->
+          <h2>BUILD A TOILET</h2>
+          <h3>BUILD HER FUTURE</h3>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="video-footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4 my-2">
+          <div class="first-pt-video video-box">
+            <img src="images/first-video-img.jpg" alt="">
+             <div class="content content2">
+              <a href="https://www.youtube.com/embed/UkcdrnpvCTs" class="video-btn overlay-box lightbox-image"> 
+              <span class="flaticon-play-button"><i class="ripple fas fa-video" aria-hidden="true"></i></span>
+              </a> 
+              </div>
+          </div>
+        </div>
+         <div class="col-md-4 my-2">
+          <div class="first-pt-video video-box">
+            <img src="images/first-video-img3.jpg" alt="">
+           <div class="content content2">
+              <a href="https://www.youtube.com/embed/7qqsXcEG5GA" class="video-btn overlay-box lightbox-image"> 
+              <span class="flaticon-play-button"><i class="ripple fas fa-video" aria-hidden="true"></i></span>
+              </a> 
+              </div>
+          </div>
+        </div>
+         <div class="col-md-4 my-2">
+          <div class="first-pt-video video-box">
+            <img src="images/first-video-img2.jpg" alt="">
+          <div class="content content2">
+              <a href="https://www.youtube.com/embed/VqR1QujkNu8" class="video-btn overlay-box lightbox-image"> 
+              <span class="flaticon-play-button"><i class="ripple fas fa-video" aria-hidden="true"></i></span>
+              </a> 
+              </div>
+          </div>
+        </div>
+         
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="hygiene-part py-4">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 border-right border-secondary">
+        <div class="hygiene-cantt-part">
+          <h4 style="font-size: 18px;"><span style="background-color: #ffd200; padding: 0px 10px; font-size: 23.57px;">#HYGIENE<span style="color: #cf3e45;font-size: 23.57px; font-weight: 800;">THAT</span>EMPOWERS</span> THE GIRL CHILD</h4>
+          <p>Starting World Toilet Day in 2020, we’re constructing toilets in 8 villages around our manufacturing unit in Bahadurgarh, Haryana using our sanitary ware. We will continue this journey by tying up with many more schools across the country spreading hygiene empowerment.</p>
+        </div>
+      </div>
+     <div class="col-md-4">
+        <div class="follow-us">
+          <h4>follow Us</h4>
+          <a href="https://www.facebook.com/hindware" target="_blank" class="btn-floating btn-lg btn-fb" type="button" role="button"><i class="fab fa-facebook-f"></i></a>
+          <!--Twitter-->
+          <a href="https://twitter.com/Hindware_Homes" target="_blank" class="btn-floating btn-lg btn-tw" type="button" role="button"><i class="fab fa-twitter"></i></a>
+          <!--Google +-->
+          <a href="https://www.youtube.com/user/Hindwarehomes" target="_blank" class="btn-floating btn-lg btn-gplus" type="button" role="button"><i class="fab fa-youtube"></i></a>
+          <!--Linkedin-->
+          <!--<a href="" target="_blank" class="btn-floating btn-lg btn-li" type="button" role="button"><i class="fab fa-linkedin-in"></i></a>-->
+          <!--Instagram-->
+          <a href="https://www.instagram.com/hindwarehomes/" target="_blank" class="btn-floating btn-lg btn-ins" type="button" role="button"><i class="fab fa-instagram"></i></a>
+          <!--Pinterest-->
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+  
+  <?php include('footer.php');?>
+  
+  
+  
+  
